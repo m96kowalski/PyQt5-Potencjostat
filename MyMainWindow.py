@@ -3,10 +3,10 @@ import usb.util
 
 from EISwindow import *
 from CVwindow import *
-from AMPEROwindow import *
-from CVzFalaKwadratwindow import *
+from AAwindow import *
+from SWVwindow import *
 from LSVwindow import *
-from CHRONOwindow import *
+from CAwindow import *
 
 
 # urzadzenie
