@@ -1,7 +1,7 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 import usb.util
 
-from IMPwindow import *
+from EISwindow import *
 from CVwindow import *
 from AMPEROwindow import *
 from CVzFalaKwadratwindow import *
